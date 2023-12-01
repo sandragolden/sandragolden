@@ -1,0 +1,22 @@
+name: Update Readme
+
+on:
+  schedule:
+    # Runs every day at 8AM UTC (12AM PT)
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: sandragolden/waka-readme-stats@main
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          DEBUG_LOGGING: ${{ vars.DEBUG_LOGGING }}
+          SHOW_LANGUAGE_PER_REPO: ${{ vars.SHOW_LANGUAGE_PER_REPO }}
+          SHOW_LOC_CHART: ${{ vars.SHOW_LOC_CHART }}
+          SHOW_PROFILE_VIEWS: ${{ vars.SHOW_PROFILE_VIEWS }}
+          SHOW_PROJECTS: ${{ vars.SHOW_PROJECTS }}
+          SHOW_SHORT_INFO: ${{ vars.SHOW_SHORT_INFO }}

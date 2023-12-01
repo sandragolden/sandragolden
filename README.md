@@ -17,3 +17,6 @@ hiking <img src="./static/emoji/hiker.png" width="22" /><br/>
 the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emoji/two.png" width="22" />
 <br/><br/>
 <img align="left" alt="Sandra Golden | LinkedIn" width="22px" src="./static/emoji/linkedin.png" /> <a href="https://www.linkedin.com/in/sandragolden/">in/sandragolden</a>
+<br/><br/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
