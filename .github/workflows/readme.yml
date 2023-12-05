@@ -20,3 +20,4 @@ jobs:
           SHOW_PROFILE_VIEWS: ${{ vars.SHOW_PROFILE_VIEWS }}
           SHOW_PROJECTS: ${{ vars.SHOW_PROJECTS }}
           SHOW_SHORT_INFO: ${{ vars.SHOW_SHORT_INFO }}
+          UPDATED_DATE_FORMAT: ${{ vars.UPDATED_DATE_FORMAT }}
