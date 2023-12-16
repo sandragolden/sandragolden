@@ -21,7 +21,7 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-225-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,11 +62,11 @@ Sunday                   67 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
+Apex                     5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.74 % 
 JavaScript               3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-OpenEdge ABL             3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-Apex                     2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
 Markdown                 2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 XML                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Meta.xml                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
 IntelliJ                 13 hrs 53 mins      ████████████████████████░   95.09 % 
@@ -89,5 +89,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/15/2023 19:40:42 UTC
+ Last Updated on 12/16/2023 08:31:22 UTC
 <!--END_SECTION:waka-->
