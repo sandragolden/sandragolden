@@ -19,7 +19,7 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 <img align="left" alt="Sandra Golden | LinkedIn" width="22px" src="./static/emoji/linkedin.png" /> <a href="https://www.linkedin.com/in/sandragolden/">in/sandragolden</a>
 <br/><br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,9 +38,9 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                505 commits         █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+🌞 Morning                504 commits         █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
 🌆 Daytime                1487 commits        ███████████████░░░░░░░░░░   61.52 % 
-🌃 Evening                383 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+🌃 Evening                384 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -50,9 +50,9 @@ Monday                   313 commits         ███░░░░░░░░�
 Tuesday                  390 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
 Wednesday                734 commits         ████████░░░░░░░░░░░░░░░░░   30.37 % 
 Thursday                 399 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Friday                   298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Friday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
 Saturday                 213 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Sunday                   70 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Sunday                   69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 ```
 
 
@@ -62,13 +62,14 @@ Sunday                   70 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Apex                     53 mins             █████████████████████████   98.43 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             54 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      54 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,5 +85,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2024 08:32:02 UTC
+ Last Updated on 01/06/2024 08:29:03 UTC
 <!--END_SECTION:waka-->
