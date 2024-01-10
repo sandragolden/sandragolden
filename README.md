@@ -19,7 +19,7 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 <img align="left" alt="Sandra Golden | LinkedIn" width="22px" src="./static/emoji/linkedin.png" /> <a href="https://www.linkedin.com/in/sandragolden/">in/sandragolden</a>
 <br/><br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,16 +62,17 @@ Sunday                   69 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Apex                     53 mins             ████████████████████████░   97.15 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Apex                     53 mins             ███████████████████████░░   93.31 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-Intellijidea             54 mins             █████████████████████████   98.69 % 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Intellijidea             56 mins             █████████████████████████   98.75 % 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.00 % 
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,5 +88,5 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2024 08:31:30 UTC
+ Last Updated on 01/10/2024 08:31:50 UTC
 <!--END_SECTION:waka-->
