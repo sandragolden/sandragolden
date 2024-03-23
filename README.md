@@ -19,7 +19,7 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 <img align="left" alt="Sandra Golden | LinkedIn" width="22px" src="./static/emoji/linkedin.png" /> <a href="https://www.linkedin.com/in/sandragolden/">in/sandragolden</a>
 <br/><br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,7 +27,7 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 
 > 📦 7.6 MB Used in GitHub's Storage 
  > 
-> 🏆 212 Contributions in the Year 2024
+> 🏆 213 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,17 +62,17 @@ Sunday                   69 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               5 hrs 16 mins       ████████████████░░░░░░░░░   62.40 % 
-JSON                     1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-ISML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+JavaScript               11 hrs 12 mins      ██████████████████░░░░░░░   71.17 % 
+JSON                     2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-WebStorm                 8 hrs 26 mins       █████████████████████████   100.00 % 
+WebStorm                 15 hrs 44 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,5 +88,5 @@ GLSL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/22/2024 08:23:29 UTC
+ Last Updated on 03/23/2024 08:21:56 UTC
 <!--END_SECTION:waka-->
