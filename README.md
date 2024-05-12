@@ -19,7 +19,7 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 <img align="left" alt="Sandra Golden | LinkedIn" width="22px" src="./static/emoji/linkedin.png" /> <a href="https://www.linkedin.com/in/sandragolden/">in/sandragolden</a>
 <br/><br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,17 +62,17 @@ Sunday                   71 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               37 hrs 47 mins      ███████████████████░░░░░░   74.38 % 
-Markdown                 2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-JSON                     2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-ISML                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-SCSS                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+JavaScript               33 hrs 20 mins      █████████████████░░░░░░░░   67.60 % 
+Markdown                 4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+JSON                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+ISML                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Bash                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-WebStorm                 50 hrs 48 mins      █████████████████████████   100.00 % 
+WebStorm                 49 hrs 18 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      50 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      49 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,5 +88,5 @@ GLSL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2024 08:22:23 UTC
+ Last Updated on 05/12/2024 08:21:53 UTC
 <!--END_SECTION:waka-->
