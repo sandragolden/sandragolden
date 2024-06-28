@@ -19,15 +19,13 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 <img align="left" alt="Sandra Golden | LinkedIn" width="22px" src="./static/emoji/linkedin.png" /> <a href="https://www.linkedin.com/in/sandragolden/">in/sandragolden</a>
 <br/><br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.8 MB Used in GitHub's Storage 
- > 
-> 🏆 554 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,8 +36,8 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                612 commits         █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-🌆 Daytime                1719 commits        ███████████████░░░░░░░░░░   60.17 % 
+🌞 Morning                612 commits         █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+🌆 Daytime                1720 commits        ███████████████░░░░░░░░░░   60.18 % 
 🌃 Evening                470 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
 🌙 Night                  56 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
@@ -47,12 +45,12 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 
 ```text
 Monday                   436 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Tuesday                  495 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Wednesday                777 commits         ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-Thursday                 461 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Friday                   401 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Tuesday                  495 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Wednesday                777 commits         ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+Thursday                 462 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Friday                   401 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
 Saturday                 216 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Sunday                   71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Sunday                   71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 
 
@@ -62,13 +60,14 @@ Sunday                   71 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               47 mins             █████████████████████████   99.59 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,5 +83,5 @@ GLSL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/27/2024 08:25:43 UTC
+ Last Updated on 06/28/2024 08:25:17 UTC
 <!--END_SECTION:waka-->
