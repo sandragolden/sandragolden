@@ -27,8 +27,6 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 
 > 📦 7.8 MB Used in GitHub's Storage 
  > 
-> 🏆 615 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 41 Public Repositories 
@@ -90,5 +88,5 @@ GLSL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2024 08:22:29 UTC
+ Last Updated on 07/08/2024 08:23:42 UTC
 <!--END_SECTION:waka-->
