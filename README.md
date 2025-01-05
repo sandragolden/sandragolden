@@ -19,7 +19,7 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 <img align="left" alt="Sandra Golden | LinkedIn" width="22px" src="./static/emoji/linkedin.png" /> <a href="https://www.linkedin.com/in/sandragolden/">in/sandragolden</a>
 <br/><br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,16 +62,16 @@ Sunday                   92 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-SCSS                     33 mins             █████████████████████░░░░   83.49 % 
-Image (svg)              5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+SCSS                     33 mins             ████████████████░░░░░░░░░   64.11 % 
+JavaScript               12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+Image (svg)              5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-WebStorm                 40 mins             █████████████████████████   100.00 % 
+WebStorm                 52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      40 mins             █████████████████████████   100.00 % 
+Mac                      52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,5 +87,5 @@ RobotFramework           2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2025 08:18:31 UTC
+ Last Updated on 01/05/2025 08:18:24 UTC
 <!--END_SECTION:waka-->
