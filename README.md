@@ -19,7 +19,7 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 <img align="left" alt="Sandra Golden | LinkedIn" width="22px" src="./static/emoji/linkedin.png" /> <a href="https://www.linkedin.com/in/sandragolden/">in/sandragolden</a>
 <br/><br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-889%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-889%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,18 +62,18 @@ Sunday                   91 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Apex                     11 hrs 1 min        █████████████████░░░░░░░░   66.75 % 
+Apex                     10 hrs 55 mins      █████████████████░░░░░░░░   66.13 % 
 XML                      1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-JavaScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-ForceIgnore file         47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+JavaScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+ForceIgnore file         47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 🔥 Editors: 
-IntelliJ IDEA            15 hrs 8 mins       ███████████████████████░░   91.58 % 
-WebStorm                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+IntelliJ IDEA            15 hrs 1 min        ███████████████████████░░   90.98 % 
+WebStorm                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 
 💻 Operating System: 
-Mac                      16 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,5 +89,5 @@ RobotFramework           2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2025 08:20:36 UTC
+ Last Updated on 02/07/2025 08:20:27 UTC
 <!--END_SECTION:waka-->
