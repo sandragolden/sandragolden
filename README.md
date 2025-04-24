@@ -19,13 +19,15 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 <img align="left" alt="Sandra Golden | LinkedIn" width="22px" src="./static/emoji/linkedin.png" /> <a href="https://www.linkedin.com/in/sandragolden/">in/sandragolden</a>
 <br/><br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C023%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.9 MB Used in GitHub's Storage 
+ > 
+> 🏆 94 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,18 +62,18 @@ Sunday                   85 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Apex                     3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-TypeScript               2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-XML                      2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-JavaScript               2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Meta.xml                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Apex                     3 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+JavaScript               2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+XML                      2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+TypeScript               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+ISML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 2 mins        █████████████░░░░░░░░░░░░   52.79 % 
-WebStorm                 6 hrs 18 mins       ████████████░░░░░░░░░░░░░   47.21 % 
+IntelliJ IDEA            5 hrs 56 mins       █████████████░░░░░░░░░░░░   50.26 % 
+WebStorm                 5 hrs 53 mins       ████████████░░░░░░░░░░░░░   49.74 % 
 
 💻 Operating System: 
-Mac                      13 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,5 +89,5 @@ RobotFramework           2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/23/2025 08:19:34 UTC
+ Last Updated on 04/24/2025 08:21:29 UTC
 <!--END_SECTION:waka-->
