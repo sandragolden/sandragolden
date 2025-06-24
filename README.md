@@ -31,9 +31,9 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 45 Public Repositories 
  > 
-> 🔑 193 Private Repositories 
+> 🔑 194 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -89,5 +89,5 @@ GLSL                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/23/2025 08:21:22 UTC
+ Last Updated on 06/24/2025 08:20:39 UTC
 <!--END_SECTION:waka-->
