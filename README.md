@@ -19,9 +19,9 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 <img align="left" alt="Sandra Golden | LinkedIn" width="22px" src="./static/emoji/linkedin.png" /> <a href="https://www.linkedin.com/in/sandragolden/">in/sandragolden</a>
 <br/><br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C767%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C768%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,18 +62,18 @@ Sunday                   107 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               8 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.78 % 
-XML                      5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-ISML                     3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Markdown                 2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-JSON                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+JavaScript               5 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   34.67 % 
+XML                      3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Markdown                 1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+JSON                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+ISML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 
 🔥 Editors: 
-WebStorm                 19 hrs 27 mins      ████████████████████░░░░░   80.50 % 
-VS Code                  4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+WebStorm                 12 hrs 31 mins      ████████████████████░░░░░   78.80 % 
+VS Code                  3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
 
 💻 Operating System: 
-Mac                      24 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,5 +89,5 @@ Vue                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2026 08:16:10 UTC
+ Last Updated on 02/04/2026 08:16:50 UTC
 <!--END_SECTION:waka-->
