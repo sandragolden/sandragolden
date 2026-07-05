@@ -62,21 +62,21 @@ Sunday                   107 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               8 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-YAML                     6 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Markdown                 5 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-JSON                     5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Python                   3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+JavaScript               7 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+YAML                     5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Markdown                 4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+JSON                     4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Python                   2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 
 🔥 Editors: 
-WebStorm                 15 hrs 21 mins      ███████████░░░░░░░░░░░░░░   43.60 % 
-Claude Code              11 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   33.46 % 
-VS Code                  4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-IntelliJ IDEA            2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-PyCharm                  1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+WebStorm                 15 hrs 12 mins      ████████████░░░░░░░░░░░░░   48.18 % 
+Claude Code              10 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   33.39 % 
+VS Code                  3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+PyCharm                  1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+IntelliJ IDEA            1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 💻 Operating System: 
-Mac                      35 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +92,5 @@ Vue                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/04/2026 10:06:01 UTC
+ Last Updated on 07/05/2026 10:09:24 UTC
 <!--END_SECTION:waka-->
