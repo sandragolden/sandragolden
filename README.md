@@ -62,21 +62,21 @@ Sunday                   107 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               9 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.09 % 
-TypeScript               4 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Markdown                 4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-JSON                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Python                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+JavaScript               9 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   34.92 % 
+TypeScript               4 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Markdown                 3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+JSON                     2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Python                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 21 mins      ████████████░░░░░░░░░░░░░   49.05 % 
-WebStorm                 8 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.48 % 
-VS Code                  4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-IntelliJ IDEA            26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-PyCharm                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Claude Code              13 hrs 25 mins      ████████████░░░░░░░░░░░░░   47.34 % 
+WebStorm                 9 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.21 % 
+VS Code                  4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+IntelliJ IDEA            26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+PyCharm                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-Mac                      27 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +92,5 @@ Shell                    4 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/29/2026 13:36:48 UTC
+ Last Updated on 08/30/2026 13:33:03 UTC
 <!--END_SECTION:waka-->
