@@ -19,7 +19,7 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 <img align="left" alt="Sandra Golden | LinkedIn" width="22px" src="./static/emoji/linkedin.png" /> <a href="https://www.linkedin.com/in/sandragolden/">in/sandragolden</a>
 <br/><br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C605%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C608%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -62,21 +62,21 @@ Sunday                   107 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 8 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-Python                   6 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-TypeScript               5 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-JSON                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-JavaScript               3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Python                   7 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+Markdown                 7 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+TypeScript               6 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+JSON                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+YAML                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 33 mins      ████████████░░░░░░░░░░░░░   46.84 % 
-VS Code                  9 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-WebStorm                 8 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-PyCharm                  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Rider                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Claude Code              16 hrs 48 mins      █████████████░░░░░░░░░░░░   51.93 % 
+VS Code                  7 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+WebStorm                 6 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+PyCharm                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Rider                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 💻 Operating System: 
-Mac                      37 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +92,5 @@ Shell                    4 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/04/2026 12:30:58 UTC
+ Last Updated on 09/05/2026 11:36:59 UTC
 <!--END_SECTION:waka-->
