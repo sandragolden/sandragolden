@@ -62,21 +62,20 @@ Sunday                   107 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               3 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.11 % 
-JSON                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-SCSS                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Apex                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               55 mins             ██████████░░░░░░░░░░░░░░░   38.28 % 
+JSON                     34 mins             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Bash                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 🔥 Editors: 
-WebStorm                 5 hrs 43 mins       ████████████████░░░░░░░░░   63.70 % 
-Claude Code              2 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-IntelliJ IDEA            43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Rider                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+WebStorm                 1 hr 39 mins        █████████████████░░░░░░░░   68.68 % 
+Claude Code              31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+VS Code                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Rider                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Mac                      8 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +91,5 @@ Shell                    4 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/18/2026 12:37:27 UTC
+ Last Updated on 09/19/2026 12:16:57 UTC
 <!--END_SECTION:waka-->
