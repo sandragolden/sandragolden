@@ -19,7 +19,7 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 <img align="left" alt="Sandra Golden | LinkedIn" width="22px" src="./static/emoji/linkedin.png" /> <a href="https://www.linkedin.com/in/sandragolden/">in/sandragolden</a>
 <br/><br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C637%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C640%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -39,16 +39,16 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 
 ```text
 🌞 Morning                1067 commits        ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-🌆 Daytime                2563 commits        ██████████████░░░░░░░░░░░   55.12 % 
+🌆 Daytime                2562 commits        ██████████████░░░░░░░░░░░   55.11 % 
 🌃 Evening                843 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
 🌙 Night                  177 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   997 commits         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-Tuesday                  792 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Wednesday                1104 commits        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Monday                   997 commits         █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+Tuesday                  792 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Wednesday                1103 commits        ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
 Thursday                 761 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
 Friday                   656 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
 Saturday                 233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
@@ -62,33 +62,33 @@ Sunday                   107 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               4 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.09 % 
-JSON                     2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-Markdown                 1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+JavaScript               4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.92 % 
+Markdown                 2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+JSON                     2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Other                    1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+TypeScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 23 mins       ███████████░░░░░░░░░░░░░░   43.51 % 
-WebStorm                 4 hrs 21 mins       ███████████░░░░░░░░░░░░░░   43.20 % 
-VS Code                  1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Claude Code              6 hrs 1 min         ███████████░░░░░░░░░░░░░░   44.56 % 
+WebStorm                 5 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.82 % 
+VS Code                  2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
 
 💻 Operating System: 
-Mac                      10 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               144 repos           ███████████████░░░░░░░░░░   61.02 % 
-Apex                     29 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-TypeScript               12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Python                   8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Shell                    4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+JavaScript               143 repos           ███████████████░░░░░░░░░░   60.85 % 
+Apex                     29 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+TypeScript               12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Python                   8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Shell                    4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 
 
 
 
- Last Updated on 09/24/2026 13:09:20 UTC
+ Last Updated on 09/25/2026 13:15:30 UTC
 <!--END_SECTION:waka-->
