@@ -21,7 +21,7 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C676%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,20 +62,20 @@ Sunday                   107 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               5 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Markdown                 3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-TypeScript               3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-XML                      3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-JSON                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+JavaScript               4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+Markdown                 3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+TypeScript               3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+XML                      3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+JSON                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 
 🔥 Editors: 
-WebStorm                 8 hrs 57 mins       ███████████░░░░░░░░░░░░░░   43.04 % 
-Claude Code              8 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.83 % 
-VS Code                  3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-PyCharm                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+WebStorm                 8 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.21 % 
+Claude Code              8 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   39.67 % 
+VS Code                  3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+PyCharm                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-Mac                      20 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,5 +91,5 @@ Shell                    4 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 14:55:47 UTC
+ Last Updated on 10/10/2026 14:13:15 UTC
 <!--END_SECTION:waka-->
