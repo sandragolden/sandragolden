@@ -19,7 +19,7 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 <img align="left" alt="Sandra Golden | LinkedIn" width="22px" src="./static/emoji/linkedin.png" /> <a href="https://www.linkedin.com/in/sandragolden/">in/sandragolden</a>
 <br/><br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C751%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C758%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,7 +27,7 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 
 > 📦 8.4 MB Used in GitHub's Storage 
  > 
-> 🏆 197 Contributions in the Year 2026
+> 🏆 199 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,9 +38,9 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1070 commits        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-🌆 Daytime                2563 commits        ██████████████░░░░░░░░░░░   54.99 % 
-🌃 Evening                851 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+🌞 Morning                1071 commits        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+🌆 Daytime                2563 commits        ██████████████░░░░░░░░░░░   54.98 % 
+🌃 Evening                851 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
 🌙 Night                  177 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -48,8 +48,8 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 ```text
 Monday                   997 commits         █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
 Tuesday                  800 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Wednesday                1103 commits        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-Thursday                 765 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Wednesday                1105 commits        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+Thursday                 764 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
 Friday                   656 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
 Saturday                 233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 Sunday                   107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
@@ -62,19 +62,19 @@ Sunday                   107 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-SCSS                     7 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-JavaScript               4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-Markdown                 2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Other                    2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JSON                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+SCSS                     7 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+JavaScript               6 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+Other                    2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Markdown                 2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+ISML                     2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 35 mins      █████████████░░░░░░░░░░░░   52.92 % 
-WebStorm                 9 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   38.84 % 
-VS Code                  1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Claude Code              14 hrs 6 mins       █████████████░░░░░░░░░░░░   53.63 % 
+WebStorm                 10 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   38.48 % 
+VS Code                  2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 
 💻 Operating System: 
-Mac                      23 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,5 +90,5 @@ Shell                    4 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2026 16:00:11 UTC
+ Last Updated on 11/05/2026 21:31:38 UTC
 <!--END_SECTION:waka-->
