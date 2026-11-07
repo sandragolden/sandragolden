@@ -62,19 +62,19 @@ Sunday                   107 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-SCSS                     4 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-JavaScript               4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-ISML                     2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-XML                      2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Other                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+JavaScript               4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+ISML                     2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+XML                      2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+SCSS                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Other                    1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 32 mins       ████████████░░░░░░░░░░░░░   47.98 % 
-WebStorm                 8 hrs 55 mins       ███████████░░░░░░░░░░░░░░   44.91 % 
-VS Code                  1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+WebStorm                 7 hrs 48 mins       █████████████░░░░░░░░░░░░   52.14 % 
+Claude Code              5 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   39.39 % 
+VS Code                  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 
 💻 Operating System: 
-Mac                      19 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,5 +90,5 @@ Shell                    4 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2026 15:37:51 UTC
+ Last Updated on 11/07/2026 14:38:16 UTC
 <!--END_SECTION:waka-->
