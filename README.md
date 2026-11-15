@@ -19,7 +19,7 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 <img align="left" alt="Sandra Golden | LinkedIn" width="22px" src="./static/emoji/linkedin.png" /> <a href="https://www.linkedin.com/in/sandragolden/">in/sandragolden</a>
 <br/><br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C769%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C775%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,7 +27,7 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 
 > 📦 8.4 MB Used in GitHub's Storage 
  > 
-> 🏆 201 Contributions in the Year 2026
+> 🏆 205 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,20 +38,20 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1071 commits        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-🌆 Daytime                2565 commits        ██████████████░░░░░░░░░░░   55.00 % 
-🌃 Evening                851 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-🌙 Night                  177 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+🌞 Morning                1071 commits        ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+🌆 Daytime                2568 commits        ██████████████░░░░░░░░░░░   55.02 % 
+🌃 Evening                851 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+🌙 Night                  177 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   997 commits         █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Tuesday                  800 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Wednesday                1105 commits        ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-Thursday                 766 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Friday                   656 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Saturday                 233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Monday                   997 commits         █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+Tuesday                  800 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Wednesday                1105 commits        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Thursday                 766 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Friday                   659 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Saturday                 233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 Sunday                   107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
 
@@ -62,21 +62,21 @@ Sunday                   107 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-SQL                      2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-Other                    1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-JSON                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-YAML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Markdown                 3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+SQL                      2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Other                    1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+TypeScript               1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-DataGrip                 2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-WebStorm                 1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-VS Code                  1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-IntelliJ IDEA            1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Claude Code              6 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.93 % 
+VS Code                  3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+WebStorm                 2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+DataGrip                 2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+IntelliJ IDEA            1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 💻 Operating System: 
-Mac                      10 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +92,5 @@ Shell                    4 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/13/2026 15:56:03 UTC
+ Last Updated on 11/15/2026 15:13:46 UTC
 <!--END_SECTION:waka-->
