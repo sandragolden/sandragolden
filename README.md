@@ -19,7 +19,7 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 <img align="left" alt="Sandra Golden | LinkedIn" width="22px" src="./static/emoji/linkedin.png" /> <a href="https://www.linkedin.com/in/sandragolden/">in/sandragolden</a>
 <br/><br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C803%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C807%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,8 +38,8 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1071 commits        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-🌆 Daytime                2570 commits        ██████████████░░░░░░░░░░░   55.00 % 
+🌞 Morning                1070 commits        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+🌆 Daytime                2571 commits        ██████████████░░░░░░░░░░░   55.02 % 
 🌃 Evening                855 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
 🌙 Night                  177 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 ```
@@ -49,8 +49,8 @@ the number <img src="./static/emoji/two.png" width="22" /><img src="./static/emo
 Monday                   997 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
 Tuesday                  801 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
 Wednesday                1105 commits        ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Thursday                 771 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Friday                   659 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Thursday                 770 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Friday                   660 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 Saturday                 233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 Sunday                   107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
@@ -62,21 +62,21 @@ Sunday                   107 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 11 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   34.40 % 
-Other                    4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-TypeScript               2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-HTML                     1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Bash                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Markdown                 11 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   33.35 % 
+Other                    4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+JSON                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+HTML                     2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+JavaScript               2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 🔥 Editors: 
-Claude Code              18 hrs              █████████████░░░░░░░░░░░░   52.45 % 
-VS Code                  9 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-WebStorm                 3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Rider                    1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-DataGrip                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Claude Code              17 hrs 28 mins      █████████████░░░░░░░░░░░░   51.82 % 
+VS Code                  9 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+WebStorm                 3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Rider                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+DataGrip                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 💻 Operating System: 
-Mac                      34 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +92,5 @@ Shell                    4 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/20/2026 16:38:38 UTC
+ Last Updated on 11/21/2026 15:54:40 UTC
 <!--END_SECTION:waka-->
